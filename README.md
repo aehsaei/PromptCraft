@@ -12,15 +12,12 @@ The goal of PromptCraft is to make scientific research more accessible by provid
 
 #### For Example, Turn this Abstract: 
 
-```
 Herein, we report the synthesis, characterization, and application of TiO2/ZnO and La-doped ZnO nanocomposites for the detection and degradation studies of Malachite Green (MG). TiO2/ZnO and La-doped ZnO nanocomposites were synthesized by reflux and hydrothermal methods, respectively, and characterized by UV–visible spectroscopy, X-ray diffraction, Fourier transform infrared spectroscopy, scanning electron microscopy, and energy-dispersive X-ray analysis. A glassy carbon electrode modified with COOH-fMWCNTs and TiO2/ZnO nanocomposite demonstrated high sensitivity characteristics for the sensing of MG up to 0.34 nM limit of detection. The application of a photocatalytic method using 2% La-doped ZnO led to 99% degradation of MG in 40 min. The photocatalytic breakdown of MG followed first-order kinetics as revealed from the spectroscopic and electrochemical monitoring of the degradation process. Color variation offered naked-eye evidence of MG degradation in the specified time. The experimental findings helped in proposing the degradation mechanism. To the best of our knowledge, the current work presents the first example of a novel photocatalyst for almost absolute degradation of MG. Moreover, the electrode modifier as well as the approach adopted is novel and efficient for minute-level detection of MG and monitoring of its photocatalytic degradation.
-```
 
 #### Into this Summary:
 
-```
 TiO2/ZnO and La-doped ZnO nanocomposites were synthesized and used for the detection and degradation of Malachite Green. The nanocomposites showed high sensitivity for sensing and almost complete degradation of MG in 40 minutes using a photocatalytic method. This could impact human life by providing a more efficient and effective way to detect and remove harmful pollutants from the environment.
-```
+
 ## Getting Started
 
 To get started with PromptCraft, follow these steps:
