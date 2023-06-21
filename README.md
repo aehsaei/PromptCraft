@@ -16,7 +16,7 @@ Herein, we report the synthesis, characterization, and application of TiO2/ZnO a
 
 #### Into this Summary:
 
-TiO2/ZnO and La-doped ZnO nanocomposites were synthesized and used for the detection and degradation of Malachite Green. The nanocomposites showed high sensitivity for sensing and almost complete degradation of MG in 40 minutes using a photocatalytic method. This could impact human life by providing a more efficient and effective way to detect and remove harmful pollutants from the environment.
+TiO2/ZnO and La-doped ZnO nanocomposites were synthesized and used for the detection and degradation of Malachite Green. The nanocomposites showed high sensitivity for sensing and almost complete degradation of MG in 40 minutes using a photocatalytic method. <ins>This could impact human life by providing a more efficient and effective way to detect and remove harmful pollutants from the environment.</ins>
 
 ## Getting Started
 
